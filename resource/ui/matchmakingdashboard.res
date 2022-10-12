@@ -232,11 +232,11 @@
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"QueueContainer"
-			"xpos"			"99999"
+			"xpos"			"cs-0.5"
 			"ypos"			"-50"
 			"zpos"			"111"
 			"wide"			"220"
-			"tall"			"f0"
+			"tall"			"35"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
