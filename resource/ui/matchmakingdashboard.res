@@ -106,10 +106,10 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot0"
-			"xpos"			"cs-3"
-			"ypos"			"rs1"
+			"xpos"			"cs-3.5"
+			"ypos"			"rs1-6"
 			"zpos"			"100"
-			"wide"			"o1"
+			"wide"			"0" //THIS IS YOU, YOU DONT NEED TO FUCKING SEE YOUR OWN PICTURE HOLY SHIT. SET TO o1 TO BE AN IDIOT!!!
 			"tall"			"24"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -127,8 +127,8 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot1"
-			"xpos"			"cs-2"
-			"ypos"			"rs1"
+			"xpos"			"cs-2.5"
+			"ypos"			"rs1-6"
 			"zpos"			"100"
 			"wide"			"o1"
 			"tall"			"24"
@@ -148,8 +148,8 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot2"
-			"xpos"			"cs-1"
-			"ypos"			"rs1"
+			"xpos"			"cs-1.5"
+			"ypos"			"rs1-6"
 			"zpos"			"100"
 			"wide"			"o1"
 			"tall"			"24"
@@ -169,8 +169,8 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot3"
-			"xpos"			"c"
-			"ypos"			"rs1"
+			"xpos"			"cs-0.5"
+			"ypos"			"rs1-6"
 			"zpos"			"100"
 			"wide"			"o1"
 			"tall"			"24"
@@ -190,8 +190,8 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot4"
-			"xpos"			"cs+1"
-			"ypos"			"rs1"
+			"xpos"			"cs+0.5"
+			"ypos"			"rs1-6"
 			"zpos"			"100"
 			"wide"			"o1"
 			"tall"			"24"
@@ -211,8 +211,8 @@
 		{
 			"ControlName"	"CDashboardPartyMember"
 			"fieldName"		"PartySlot5"
-			"xpos"			"cs+2"
-			"ypos"			"rs1"
+			"xpos"			"cs+1.5"
+			"ypos"			"rs1-6"
 			"zpos"			"100"
 			"wide"			"o1"
 			"tall"			"24"

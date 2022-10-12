@@ -5,12 +5,12 @@
 		"label" "FRIENDS" 
 		"command" "engine incrementvar cl_mainmenu_safemode 0 1 1"
 	}
-	"ServerBrowserButton"
+	"CreateServerButton"
 	{
-		"label" "PLAY" 
-		"command" "OpenServerBrowser"
+		"label"		"CREATE"
+		"command"	"OpenCreateMultiplayerGameDialog"
 		"OnlyAtMenu" "1"
-	} 
+	}
 	"ReplayBrowserButton"
 	{
 		"label" "REPLAYS"
@@ -23,7 +23,7 @@
 	}
 	"ConsoleButton"
 	{
-		"label" "l" //9
+		"label" "l"
 		"command" "engine con_enable 1;toggleconsole"
         "tooltip" "TOGGLE CONSOLE"
 	} 
