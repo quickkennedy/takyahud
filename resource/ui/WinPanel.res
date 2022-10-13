@@ -1,5 +1,24 @@
 "Resource/UI/winpanel.res"
 {
+	"BlueScoreBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"BlueScoreBG"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	"RedScoreBG"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"RedScoreBG"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+	}
+	
 	"TeamScoresPanel"
 	{
 		"ControlName"		"EditablePanel"
@@ -134,6 +153,15 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"fillcolor"		"BrightGray"
+	}
+	"WinPanelBGBorder"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"WinPanelBGBorder"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"WinningTeamLabel"
 	{	
