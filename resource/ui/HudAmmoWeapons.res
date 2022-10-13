@@ -73,8 +73,8 @@
 		"fieldName"		"AmmoInClipShadow"
 		"font"			"BoldNumbers54"
 		"fgcolor"		"HudShadow"
-		"xpos"	        "c46"
-		"ypos"	        "336"
+		"xpos"	        "-1"
+		"ypos"	        "-1"
 		"zpos"			"-2"
 		"wide"	        "95" 
 		"tall"	        "44" 
@@ -82,6 +82,8 @@
 		"enabled"		"1"
 		"textAlignment"	"east"			
 		"labelText"		"%Ammo%"
+		
+		"pin_to_sibling"	"AmmoInClip"
 	}
     "AmmoInReserveShadow"
 	{
@@ -89,8 +91,8 @@
 		"fieldName"		"AmmoInReserveShadow"
 		"font"			"MediumNumbers26"
 		"fgcolor"		"HudShadow"
-		"xpos"	        "c146"
-		"ypos"			"338"
+		"xpos"	        "-1"
+		"ypos"			"-1"
 		"zpos"			"-5"
 		"wide"			"92"
 		"tall"			"44"
@@ -98,6 +100,8 @@
 		"enabled"		"1"
 		"textAlignment"	"west"
 		"labelText"		"%AmmoInReserve%"
+		
+		"pin_to_sibling"	"AmmoInReserve"
 	}	
 	"AmmoNoClipShadow"
 	{
@@ -105,8 +109,8 @@
 		"fieldName"		"AmmoNoClipShadow"
 		"font"			"BoldNumbers54"
 		"fgcolor"		"HudShadow"
-		"xpos"	"c102"
-		"ypos"	"336"
+		"xpos"	"-1"
+		"ypos"	"-1"
 		"zpos"			"-2"
 		"wide"	"95" 
 		"tall"	"44" 
@@ -114,6 +118,8 @@
 		"enabled"		"1"
 		"textAlignment"	"west"			
 		"labelText"		"%Ammo%"
+		
+		"pin_to_sibling"	"AmmoNoClip"
 	}
     
     //removed

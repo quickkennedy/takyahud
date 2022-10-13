@@ -37,8 +37,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"c-245"
-		"ypos"			"336"
+		"xpos"			"-1"
+		"ypos"			"-1"
 		"zpos"			"2"
 		"wide"			"200"
 		"tall"			"44"
@@ -48,6 +48,8 @@
 		"textAlignment"	"center"
 		"font"			"BoldNumbers54"
 		"fgcolor"		"HudShadow"
+		
+		"pin_to_sibling"	"PlayerStatusHealthValue"
 	}
     "Tri"
     {
@@ -296,15 +298,15 @@
 		"ControlName"				         		"EditablePanel"
 		"fieldName"				         			"PlayerStatusAnchor"
 		"xpos"					         			"-250"
-		"ypos"					         			"-13"
-		"wide"					         			"2"
-		"tall"					         			"30"
+		"ypos"					         			"s-0.5"
+		"wide"					         			"25"
+		"tall"					         			"25"
 		"visible"				         			"1"
 		"enabled"				         			"1"
 		
+		//"bgcolor_override"							"ButtonArmed"
+		
 		"pin_to_sibling"							"PlayerStatusHealthValue"
-		"pin_corner_to_sibling"						"PIN_TOPRIGHT"
-		"pin_to_sibling_corner"						"PIN_TOPLEFT"
 	}
 
 	"PlayerStatusBleedImage"
