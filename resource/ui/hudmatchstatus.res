@@ -205,26 +205,6 @@
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
-	}	
-
-	"BGFrame"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"			"BGFrame"
-		"xpos"				"cs-0.5"
-		"ypos"				"-5"
-		"zpos"				"0"
-		"wide"				"365"
-		"tall"				"28"
-		"visible"			"0"
-
-		"proportionaltoaparent"	"1"
-		"border"			"TFFatLineBorder"
-
-		if_match
-		{
-			"visible"		"1"
-		}
 	}
 
 	"RankUpLabel"
