@@ -12,36 +12,10 @@
 		"visible"			"1"
 		"enabled"			"1"
 		
-		"TimePanelValue"
+		if_match
 		{
-			"ControlName"		"CExLabel"
-			"fieldName"		"TimePanelValue"
-			"font"			"MediumNumbers18"
-			"fgcolor"			"White"
-			"xpos"			"0"
-			"ypos"			"-2"
-			"zpos"			"-1"
-			"wide"			"80"
-			"tall"			"17"
-			"visible"		"1"
-			"enabled"		"1"
-			"textAlignment"		"center"
-			"labelText"		"0:00"
+			"ypos"			"rs1"
 		}
-        
-	}
-
-	"RedTimer"
-	{
-		"ControlName"		"CTFHudTimeStatus"
-		"fieldName"			"RedTimer"
-		"xpos"				"80"
-		"ypos"				"0"
-		"zpos"				"-1"
-		"wide"				"80"
-		"tall"				"50"
-		"visible"			"1"
-		"enabled"			"1"
 		
 		"TimePanelValue"
 		{
@@ -58,6 +32,52 @@
 			"enabled"		"1"
 			"textAlignment"		"center"
 			"labelText"		"0:00"
+			
+			if_match
+			{
+				"ypos"			"20"
+			}
+		}
+        
+	}
+
+	"RedTimer"
+	{
+		"ControlName"		"CTFHudTimeStatus"
+		"fieldName"			"RedTimer"
+		"xpos"				"80"
+		"ypos"				"0"
+		"zpos"				"-1"
+		"wide"				"80"
+		"tall"				"50"
+		"visible"			"1"
+		"enabled"			"1"
+		
+		if_match
+		{
+			"ypos"			"rs1"
+		}
+		
+		"TimePanelValue"
+		{
+			"ControlName"		"CExLabel"
+			"fieldName"		"TimePanelValue"
+			"font"			"MediumNumbers18"
+			"fgcolor"			"White"
+			"xpos"			"0"
+			"ypos"			"-2"
+			"zpos"			"-1"
+			"wide"			"80"
+			"tall"			"17"
+			"visible"		"1"
+			"enabled"		"1"
+			"textAlignment"		"center"
+			"labelText"		"0:00"
+			
+			if_match
+			{
+				"ypos"			"20"
+			}
 		}	
        
 	}
@@ -73,6 +93,13 @@
             "fillcolor"		"Red"
             "visible"		"1"
             "enabled"		"1"
+			
+			if_match
+			{
+				"xpos"	"100"
+				"wide"	"40"
+				"ypos"	"rs1-11"
+			}
         }
         "BlueBG"
         {
@@ -86,6 +113,13 @@
             "fillcolor"		"Blue"
             "visible"		"1"
             "enabled"		"1"
+			
+			if_match
+			{
+				"xpos"	"20"
+				"wide"	"40"
+				"ypos"	"rs1-11"
+			}
         }
 	"ActiveTimerBG"
 	{
