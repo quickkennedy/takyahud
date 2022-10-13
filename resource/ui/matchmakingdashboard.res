@@ -458,7 +458,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"JoinPartyLobbyContainer"
 			"xpos"			"cs-0.5"
-			"ypos"			"0"
+			"ypos"			"-35"
 			"zpos"			"110"
 			"wide"			"220"
 			"tall"			"35"
