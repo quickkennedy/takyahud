@@ -209,3 +209,8 @@ event CompetitiveGame_LowerChatWindow
 event CompetitiveGame_RestoreChatWindow
 {
 }
+
+// players dead have a proper respawn timer
+
+event TeamStatus_PlayerDead{}
+event TeamStatus_PlayerAlive{}
