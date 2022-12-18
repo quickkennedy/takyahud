@@ -153,13 +153,13 @@
 			"enabled"								"1"
 			"tabPosition"							"0"
 			"labelText"								""
-			"fillcolor"								"BlueSolid"
+			"fillcolor"								"Blue"
 			"scaleImage"							"1"
 			"proportionaltoparent"					"1"
 
 			"if_multiple_trains_red"
 			{
-				"fillcolor"							"RedSolid"
+				"fillcolor"							"Red"
 			}
 		}
 
