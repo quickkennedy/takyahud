@@ -585,15 +585,7 @@
 			{
 				"ControlName"	"ImagePanel"
 				"fieldName"		"SkullPanel"
-				"xpos"			"cs-0.5"
-				"zpos"			"1"
-				"wide"			"o1.2"
-				"tall"			"p0.15"
-				"visible"		"0"
-				"enabled"		"1"
-				"image"			"../HUD/comp_player_status_skull"	
-				"scaleImage"	"1"
-				"proportionaltoparent"	"1"	
+				"xpos"			"99999"
 			}
 		}
 	}
