@@ -6,13 +6,14 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerClass"
 		"xpos"			"0"		//0
-		"ypos"			"18"	//18
+		"ypos"			"0"	//18
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"480"
 		"visible"		"1"
 		"enabled"		"1"		
 	}
+
 	"PlayerStatusClassImage"
 	{
 		"ControlName"	"CTFClassImage"
