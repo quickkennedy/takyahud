@@ -1123,6 +1123,16 @@ Scheme
                 "dropshadow"	"0"
 			}
 		}
+		"BoldNumbers12"
+		{
+			"1"
+			{
+				"name"			"BoldNumbers"
+				"tall"		"12"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}
         "BoldNumbers10"
 		{
 			"1"
