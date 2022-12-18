@@ -126,8 +126,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelShadow"
-		"xpos"			"c95"
-		"ypos"			"336"	
+		"xpos"	        "-1"
+		"ypos"	        "-1"
 		"zpos"			"-1"
 		"wide"			"140"	
 		"tall"			"44"	
@@ -142,6 +142,8 @@
 		"brighttext"	"0"
 		"font"			"BoldNumbers54"
 		"fgcolor"		"HudShadow"
+		
+		"pin_to_sibling"	"ChargeLabel"
 	}
 	"ResistIcon"
 	{
