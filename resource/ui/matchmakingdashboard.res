@@ -9,11 +9,11 @@
 		"ypos"					"0"
 		"zpos"					"-9"
 		"wide"					"f0"
-		"tall"					"f0"
+		"tall"					"54"
 		"keyboardinputenabled"	"0"
 
-		"collapsed_height"	"480"
-		"expanded_height"	"480"
+		"collapsed_height"	"54"
+		"expanded_height"	"54"
 		"resize_time"		"0"
 	}
 
@@ -25,7 +25,7 @@
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"f0"
+		"tall"			"54" //"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
 
@@ -102,132 +102,6 @@
 			}
 		}
 
-		"PartySlot0"
-		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot0"
-			"xpos"			"cs-3.5"
-			"ypos"			"rs1-6"
-			"zpos"			"100"
-			"wide"			"0" //THIS IS YOU, YOU DONT NEED TO FUCKING SEE YOUR OWN PICTURE HOLY SHIT. SET TO o1 TO BE AN IDIOT!!!
-			"tall"			"24"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"0"
-		}
-
-		"PartySlot1"
-		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot1"
-			"xpos"			"cs-2.5"
-			"ypos"			"rs1-6"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"1"
-		}
-
-		"PartySlot2"
-		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot2"
-			"xpos"			"cs-1.5"
-			"ypos"			"rs1-6"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"2"
-		}
-
-		"PartySlot3"
-		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot3"
-			"xpos"			"cs-0.5"
-			"ypos"			"rs1-6"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"3"
-		}
-
-		"PartySlot4"
-		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot4"
-			"xpos"			"cs+0.5"
-			"ypos"			"rs1-6"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"4"
-		}
-
-		"PartySlot5"
-		{
-			"ControlName"	"CDashboardPartyMember"
-			"fieldName"		"PartySlot5"
-			"xpos"			"cs+1.5"
-			"ypos"			"rs1-6"
-			"zpos"			"100"
-			"wide"			"o1"
-			"tall"			"24"
-			"autoResize"	"0"
-			"pinCorner"		"3"
-			"visible"		"1"
-			"enabled"		"1"
-			"tabPosition"	"0"
-			"proportionaltoparent"	"1"
-			"mouseinputenabled"	"1"
-			"keyboardinputenabled"	"0"
-
-			"party_slot"	"5"
-		}
-
 		"QueueContainer"
 		{
 			"ControlName"	"EditablePanel"
@@ -236,7 +110,7 @@
 			"ypos"			"-50"
 			"zpos"			"111"
 			"wide"			"220"
-			"tall"			"35"
+			"tall"			"f0" //"35"
 			"visible"		"1"
 			"proportionaltoparent"	"1"
 
@@ -587,7 +461,7 @@
 			"ControlName"	"CExImageButton"
 			"fieldName"		"FindAGameButton2"
 			"xpos"			"0"
-			"ypos"			"12"
+			"ypos"			"12" //+426"
 			"wide"			"487"
 			"tall"			"48"
 			"autoResize"	"0"
