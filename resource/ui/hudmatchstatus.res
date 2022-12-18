@@ -530,6 +530,7 @@
 				"labelText"		"%respawntime%"
 				"textAlignment"	"center"
 				"proportionaltoparent"	"1"
+				"fgcolor_override"	"255 255 0 255"
 			}
 			"chargeamount"
 			{
