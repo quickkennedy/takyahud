@@ -20,7 +20,7 @@
         "fgcolor"       "White"
         "font"			"HeavyCaps18"
 	}
-	
+
 	MainMenuOverride
 	{
 		"fieldName"		"MainMenuOverride"
